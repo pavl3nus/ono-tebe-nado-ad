@@ -114,6 +114,7 @@
 .lots {
   margin: 0 24px;
   margin-bottom: 120px;
+  scroll-margin-top: 80px;
 }
 
 .lots__title {
@@ -230,6 +231,7 @@
   align-items: start;
   margin-top: 180px;
   padding: 0 50px;
+  height: 180px;
 }
 
 .footer__nav-list {
